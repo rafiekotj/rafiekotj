@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in tech and programming
 - 🌱 I'm learning to be a front-end developer at Glints Academy
-- 🏫 I'm currently studying at Bina Sarana Informatika University majoring in computer science
+- 🏫 I'm currently studying at Bina Sarana Informatika University majoring in Informatics
 - 💞️ I’m looking to collaborate and become more participatory in the community
 
 <h4>🤝 Let's Connect</h4>
